@@ -10,4 +10,4 @@ https://docs.google.com/viewer?url=https://github.com/Seon-dongun/UE5_Project_Ar
 <br>
 
 ### [시연 영상]  
-https://youtu.be/byjtzA7H2-E?si=E-SMcuuvSUUPyduj  
+https://youtu.be/p0nPSkvPTlk
