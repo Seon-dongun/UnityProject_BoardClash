@@ -5,7 +5,7 @@
 <br>
 
 ### [프로젝트 보고서]  
-https://docs.google.com/viewer?url=https://github.com/Seon-dongun/UE5_Project_ArenaBattle/raw/main/UE5_ArenaBattle_보고서.pdf  
+https://docs.google.com/viewer?url=https://github.com/Seon-dongun/Unity_Project_BoardClash/raw/main/Unity_BoardClash_보고서.pdf  
 
 <br>
 
